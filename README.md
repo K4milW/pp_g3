@@ -2,7 +2,7 @@
 ## **Gruby** 
 ### *Jebniety* 
 [Fajny link](https://youtu.be/axtnPlGJVIA)\
-![Fota](https://wieloswiat.pl/assets/uploads/example.png\)
+![](https://wieloswiat.pl/assets/uploads/example.png\)
 |-Fajna lista-|
 * Fiki 
   * Miki
