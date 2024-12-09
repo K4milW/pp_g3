@@ -5,7 +5,7 @@
 ![Fota](https://wieloswiat.pl/assets/uploads/example.png\)
 |-Fajna lista-|
 * Fiki 
-* Miki
+  * Miki
 * Ura 
   + Bura
 + Maka 
