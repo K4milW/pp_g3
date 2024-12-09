@@ -3,7 +3,7 @@
 ### *Jebniety* 
 [Fajny link](https://youtu.be/axtnPlGJVIA)\
 
- |-Fajna lista-| 
+ |- Fajna lista -| 
 * Fiki 
   * Miki
 * Ura 
