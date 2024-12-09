@@ -2,8 +2,8 @@
 ## **Gruby** 
 ### *Jebniety* 
 [Fajny link](https://youtu.be/axtnPlGJVIA)\
-![](https://wieloswiat.pl/assets/uploads/example.png\)
-|-Fajna lista-|
+
+ |-Fajna lista-| 
 * Fiki 
   * Miki
 * Ura 
