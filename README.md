@@ -7,8 +7,8 @@
 * Fiki 
 * Miki
 * Ura 
-\+ Bura
+  + Bura
 + Maka 
-\- Paka 
+  - Paka 
 - Euro 
-\- Sraka
+  - Sraka
